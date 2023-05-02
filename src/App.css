@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+input {
+  border-radius: 5px;
+  padding: 8px;
+  border: 1px solid #42ef;
+  margin: 0 14px;
+}
+button {
+  padding: 7px 15px;
+  color: #42ef;
+  border: 1px solid #42ef;
+  outline: none;
+  border-radius: 7px;
+  background: lightgrey;
+  margin: 5px 10px;
+  cursor: pointer;
+}
+
+span {
+  margin: 0 15px;
+  text-align: center;
+}
+
+hr{
+  width: 80%;
+}
